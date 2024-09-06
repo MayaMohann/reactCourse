@@ -1,5 +1,3 @@
-
-import React from 'react';
 import './EventPlanner.css'; // Import CSS file for styling
 import Footer from './Footer';
 const EventPlanner = () => {
