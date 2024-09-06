@@ -9,7 +9,7 @@ return (
         <section className="description">
             <p>
                 Plan and organize your events effortlessly with Event Planner. From
-                birthdays to corporate meetings, we've got you covered.
+                birthdays to corporate meetings, we&apos;ve got you covered.
             </p>
             <button className="get-started-button">Get Started</button>
          </section>
@@ -55,11 +55,11 @@ return (
         <section className="testimonials">
             <h2>Testimonials</h2>
             <div className="testimonial">
-                <p>"Event Planner made organizing my wedding a breeze. Highly recommended!"</p>
+                <p>&quot;Event Planner made organizing my wedding a breeze. Highly recommended!&quot;</p>
                 <p className="author">- Emily Johnson</p>
             </div>
             <div className="testimonial">
-                <p>"I use Event Planner for all my corporate events. It saves me so much time and effort!"</p>
+                <p>&quot;I use Event Planner for all my corporate events. It saves me so much time and effort!&quot;</p>
                 <p className="author">- John Smith</p>
             </div>
         </section>
