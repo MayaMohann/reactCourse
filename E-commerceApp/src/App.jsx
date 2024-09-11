@@ -2,7 +2,7 @@
 import './App.css'
 import ProductList from './Components/ProductList'
 import ShoppingCart from './Components/ShoppingCart'
-// import SuperCoins from './Components/SuperCoin'
+import SuperCoins from './Components/SuperCoin'
 
 function App() {
 
@@ -10,7 +10,7 @@ function App() {
     <>
     <ProductList/>
     <ShoppingCart/>
-    {/* <SuperCoins/> */}
+    <SuperCoins/>
     </>
   )
 }
