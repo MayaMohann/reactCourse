@@ -2,6 +2,7 @@ import { createSlice } from '@reduxjs/toolkit';
 const initialState = {
     cartItems: [],
   };
+// eslint-disable-next-line react-refresh/only-export-components
 const CartSlice = createSlice({
     name: 'cart',
     initialState,
@@ -43,5 +44,5 @@ export const {
     increaseItemQuantity,
     decreaseItemQuantity,
   } = CartSlice.actions;
-  
+
   export default CartSlice.reducer;
